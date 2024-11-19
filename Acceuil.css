@@ -121,7 +121,7 @@ ul{
 }
 
 .page1{
-    background-image: url(image/fond84.jpg);
+    background-image: url(fond84.jpg);
     background-size:cover;
 }
 
@@ -136,7 +136,7 @@ section {
     border-bottom: solid 5px black;
     border-top: solid 5px black;
     font-family: Cambria;
-    background-image: url(image/ftuy4.png);
+    background-image: url(ftuy4.png);
     background-size: cover;
     height: 250px;
 }
@@ -218,7 +218,7 @@ section {
 }
 
 .page2{
-    background-image: url(image/Fond54.jpg);
+    background-image: url(Fond54.jpg);
     background-size: cover;
 }
 
@@ -282,7 +282,7 @@ section {
 }
 
 .page3{
-    background-image: url(image/fond516.jpg);
+    background-image: url(fond516.jpg);
     background-size: cover;
 }
 
@@ -344,7 +344,7 @@ section {
 }
 
 .page4 {
-    background-image: url('image/Fond_4.png');
+    background-image: url('Fond_4.png');
     background-size: cover;
 }
 
